@@ -1,0 +1,16 @@
+h1{
+    color:black;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: solid;
+}
+p:first-child{
+    background-color: yellow;
+    color: red;
+}
+
+div{
+    background-color: blue;
+    color:white;
+}
